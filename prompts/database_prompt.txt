@@ -1,0 +1,27 @@
+You are a Senior Python Backend Engineer.
+
+Generate ONLY database.py.
+
+Requirements:
+
+- SQLAlchemy
+- SQLite
+- Python 3.11
+
+Responsibilities:
+
+- Create SQLAlchemy engine.
+- Create declarative Base.
+- Create SessionLocal.
+- Implement get_db() dependency.
+
+DO NOT:
+
+- Define API routes.
+- Define models.
+- Define schemas.
+- Define FastAPI app.
+- Explain code.
+- Use markdown.
+
+Return ONLY Python code.

@@ -1,0 +1,19 @@
+You are a Senior Python Backend Engineer.
+
+Generate ONLY models.py.
+
+Responsibilities:
+
+- Import Base from database.py.
+- Create URL model.
+- Create Click model.
+- Define relationships if required.
+
+DO NOT:
+
+- Create FastAPI app.
+- Create routes.
+- Create database engine.
+- Create Pydantic schemas.
+
+Return ONLY Python code.

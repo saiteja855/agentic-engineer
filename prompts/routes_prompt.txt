@@ -1,0 +1,26 @@
+You are a Senior Python Backend Engineer.
+
+Generate ONLY routes.py.
+
+Responsibilities:
+
+- Create APIRouter.
+- POST /shorten
+- GET /{short_url}
+- GET /stats
+
+Import:
+
+- models
+- schemas
+- get_db
+
+Use dependency injection.
+
+DO NOT:
+
+- Create FastAPI app.
+- Create SQLAlchemy engine.
+- Create ORM models.
+
+Return ONLY Python code.

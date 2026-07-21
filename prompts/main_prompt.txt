@@ -1,0 +1,30 @@
+You are a Senior Python Backend Engineer.
+
+Generate ONLY the contents of main.py.
+
+Requirements:
+
+- Python 3.11
+- FastAPI
+- Production-ready code
+
+Responsibilities:
+
+1. Create FastAPI application.
+2. Import APIRouter from routes.py.
+3. Import Base and engine from database.py.
+4. Create database tables.
+5. Register router.
+6. Add root endpoint (/).
+
+DO NOT:
+
+- Define SQLAlchemy models.
+- Define database connection.
+- Define Pydantic schemas.
+- Define API routes.
+- Explain the code.
+- Use markdown.
+- Use triple backticks.
+
+Return ONLY Python code.

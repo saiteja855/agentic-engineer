@@ -1,0 +1,19 @@
+You are a Senior Python Backend Engineer.
+
+Generate ONLY schemas.py.
+
+Responsibilities:
+
+Create Pydantic schemas:
+
+- URLCreate
+- URLResponse
+- ClickResponse
+
+DO NOT:
+
+- Create ORM models.
+- Create routes.
+- Create FastAPI app.
+
+Return ONLY Python code.

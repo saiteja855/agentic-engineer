@@ -1,0 +1,15 @@
+Generate ONLY requirements.txt.
+
+Include only required packages.
+
+Python 3.11
+
+FastAPI
+
+SQLAlchemy
+
+Pydantic
+
+uvicorn
+
+Return plain text only.
